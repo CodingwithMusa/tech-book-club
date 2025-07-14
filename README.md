@@ -1,8 +1,8 @@
 # 📚 Tech Book Club Website
 
-A simple and clean website built for a Tech Book Club — perfect for book lovers, coders, and learners who want to track and share their favorite tech reads.
+A simple and clean static website built for a Tech Book Club — designed for developers, book lovers, and curious learners to showcase and share their favorite tech reads. It's a great front-end project for practicing layout and visual structure. Built entirely with HTML and CSS.
 
-This project was featured on my YouTube channel: [CodingwithMusa](https://youtube.com/@coding-with-musa)
+Designed to promote community reading and serve as a clean front-end project.
 
 ---
 
