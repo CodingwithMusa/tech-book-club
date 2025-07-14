@@ -31,11 +31,11 @@ tech-book-club/
 ## 📺 Watch the Tutorial
 
 Check out the full walkthrough and code explanation on my YouTube channel:  
-[Watch on CodingwithMusa](https://youtube.com/@CodingwithMusa)
+[Watch on Youtube](https://youtube.com/@CodingwithMusa)
 
 
 ## 📬 Contact
 
 For feedback or questions:
-📧 musazeshan.tech@gmail.com  
-📺 [YouTube: @CodingwithMusa](https://youtube.com/@coding-with-musa)
+musazeshan.tech@gmail.com  
+[YouTube: @coding-with-musa](https://youtube.com/@coding-with-musa)
